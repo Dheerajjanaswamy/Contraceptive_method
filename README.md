@@ -23,6 +23,6 @@ Husband's occupation (categorical) 1, 2, 3, 4(random)
 
 Standard-of-living index (categorical) 1=verlow, 2, 3, 4=high
 
-Media exposure (binary) Good, Not good
+Media exposure (binary) Good,Not Good
 
 Contraceptive method used (class attribute) No,Yes
